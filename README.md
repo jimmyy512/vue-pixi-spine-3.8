@@ -1,7 +1,5 @@
 # vue-pixi-spine-3.8  
 
-https://jimmyy512.github.io/vue-pixi-spine-3.8/  
-
 ## Project setup
 ```
 npm install
